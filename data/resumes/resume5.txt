@@ -1,0 +1,10 @@
+Name: Karan Patil
+
+Skills:
+Python, Basic SQL
+
+Education:
+B.Tech (Pursuing)
+
+Experience:
+No professional experience. Built small projects.

@@ -1,0 +1,10 @@
+Name: Priya Verma
+
+Skills:
+Python, SQL, Excel, Data Visualization
+
+Education:
+B.Sc in Computer Science
+
+Experience:
+Worked on data analysis using Excel and Python.

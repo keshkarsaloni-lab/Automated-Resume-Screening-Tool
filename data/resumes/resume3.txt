@@ -1,0 +1,10 @@
+Name: Amit Singh
+
+Skills:
+HTML, CSS, JavaScript
+
+Education:
+BCA
+
+Experience:
+Worked on web development projects.

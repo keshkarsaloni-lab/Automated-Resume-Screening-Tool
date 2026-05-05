@@ -1,0 +1,11 @@
+Name: Rahul Sharma
+
+Skills:
+Python, Machine Learning, Data Analysis, Pandas, NumPy, Scikit-learn, SQL
+
+Education:
+B.Tech in Computer Engineering
+
+Experience:
+Worked on machine learning models for prediction.
+Built data analysis projects using Python.

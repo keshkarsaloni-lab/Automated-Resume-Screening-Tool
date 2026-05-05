@@ -1,0 +1,7 @@
+python
+machine learning
+data analysis
+sql
+pandas
+numpy
+scikit-learn

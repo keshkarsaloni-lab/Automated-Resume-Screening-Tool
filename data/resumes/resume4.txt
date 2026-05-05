@@ -1,0 +1,10 @@
+Name: Neha Kulkarni
+
+Skills:
+Python, Machine Learning, Deep Learning, TensorFlow, NLP
+
+Education:
+M.Tech in AI
+
+Experience:
+Developed deep learning models and NLP applications.

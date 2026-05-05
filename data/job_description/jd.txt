@@ -1,0 +1,21 @@
+Job Role: Python Developer
+
+We are looking for a skilled Python Developer with experience in:
+
+Required Skills:
+- Python
+- Machine Learning
+- Data Analysis
+- SQL
+- Pandas
+- NumPy
+- Scikit-learn
+
+Responsibilities:
+- Develop machine learning models
+- Analyze data and generate insights
+- Work with large datasets
+- Build efficient Python applications
+
+Education:
+- B.Tech / B.Sc in Computer Science or related field
